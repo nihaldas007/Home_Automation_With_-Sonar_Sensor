@@ -33,15 +33,13 @@ This Arduino-based project uses **two ultrasonic sensors** to detect people ente
 
 | Arduino Pin | Connected To         |
 |-------------|----------------------|
-| D2          | Trigger (Sensor 1)   |
-| D3          | Echo (Sensor 1)      |
-| D4          | Trigger (Sensor 2)   |
-| D5          | Echo (Sensor 2)      |
-| D6          | Relay IN             |
+| D6          | Trigger (Sensor 1)   |
+| D7          | Echo (Sensor 1)      |
+| D8          | Trigger (Sensor 2)   |
+| D9          | Echo (Sensor 2)      |
+| D13         | Relay IN             |
 | 5V          | VCC (Sensors & Relay)|
 | GND         | GND (Sensors & Relay)|
-
-> ⚠️ Use proper power for the relay module (especially for high-voltage control).
 
 ---
 
