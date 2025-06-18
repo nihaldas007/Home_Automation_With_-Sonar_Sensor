@@ -1,6 +1,4 @@
-Here’s a complete and clean **GitHub README.md** file for your **Room Entry Counter with Dual Sonar Sensors and Relay Light Control** using Arduino.
 
----
 # 🚪 Smart Room Light Control with People Counter (Using Two Ultrasonic Sensors)
 
 This Arduino-based project uses **two ultrasonic sensors** to detect people entering and exiting a room. It keeps a **count of the number of people** currently inside and controls a **relay module** to automatically turn the light **on/off** based on occupancy.
